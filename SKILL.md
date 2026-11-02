@@ -1,5 +1,5 @@
 ---
-name: agent-project-kit
+name: vibe-start-pack
 description: Set up or update a project's lightweight AI working context, check the current agent environment and delegation support, and install the Architect, Implementer, and Validator workflow. Use when adopting this kit in a new or existing software project.
 ---
 
